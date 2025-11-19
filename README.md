@@ -8,3 +8,22 @@
 
 <h1 align="center">Hey there 👋</h1>
 
+###
+
+<h3 align="left">I'm Joseph Parker</h3>
+
+###
+
+<p align="left">This is my journey to breaking into cybersecurity</p>
+
+###
+
+<div align="center">
+  <img height="100" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif"  />
+</div>
+
+###
+
+<h3 align="left">Projects</h3>
+
+###
