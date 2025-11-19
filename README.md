@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img height="100" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif"  />
+  <img height="200" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif"  />
 </div>
 
 ###
