@@ -24,6 +24,8 @@
 
 ###
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/prodigyisxim.png" alt="Your Image Badge" />
+
 <h3 align="left">Projects</h3>
 
 ###
