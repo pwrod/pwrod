@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="www.linkedin.com/in/joseph-parker-781a11252">
+  <a href="https://www.linkedin.com/in/joseph-parker-781a11252">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
